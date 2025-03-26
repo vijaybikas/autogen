@@ -1,0 +1,7 @@
+
+# Cost vary depends on what LLM and models has been used 
+# Here the cost is 0 due to open source LLM and local setup for model
+
+{'usage_including_cached_inference': {'total_cost': 0, 'llama3.2:1b': {'cost': 0, 'prompt_tokens': 4261, 'completion_tokens': 663, 'total_tokens': 4924}}, 'usage_excluding_cached_inference': {'total_cost': 0, 'llama3.2:1b': {'cost': 0, 'prompt_tokens': 2825, 'completion_tokens': 417, 'total_tokens': 3242}}}
+{'usage_including_cached_inference': {'total_cost': 0, 'llama3.2:1b': {'cost': 0, 'prompt_tokens': 5650, 'completion_tokens': 834, 'total_tokens': 6484}}, 'usage_excluding_cached_inference': {'total_cost': 0, 'llama3.2:1b': {'cost': 0, 'prompt_tokens': 2825, 'completion_tokens': 417, 'total_tokens': 3242}}}
+
